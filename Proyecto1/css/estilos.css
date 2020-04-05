@@ -9,7 +9,7 @@ body {
 
 #cabecera {
     background: #33A;
-    box-shadow: 0px 2px 30px 0px rgba(0,0,0,0.5);
+    box-shadow: 0px 2px 20px 0px rgba(0,0,0,0.5);
     color: white;
     font-weight: bold;
     margin: 0;
@@ -17,7 +17,7 @@ body {
 }
 
 #cabecera #tagline {
-    margin: 0 0 0 1em;
+    padding: 0 0 0 1em;
     font-weight: normal;
     font-size: 0.8em;
 }
